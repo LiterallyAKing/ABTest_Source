@@ -1,0 +1,5 @@
+PlayerID,GameType,DateOfSession,Play_StartTime,Play_EndTime,Play_TotalTime,Total#OfRuns,AvgTimePerRun,TotalMoneyEarned,TotalMoneySpent,#SpeedUpgradesPurchased,#ThrusterUpgradesPurchased,#ThrustsAttemptedTotal,#ThrustsInitiatedTotal,#BouncersHitTotal,#BouncersHitDuringThrustTotal,FurthestDistanceAchieved,AvgDistImprovementPerRun
+Player_04031710305157,Experiment,04-03-2017,22:30:51,22:32:28,00:01:36.9595457,0,NaN,0,0,0,0,0,0,0,0,0,0
+Player_04041711285337,Control,04-04-2017,11:28:53,11:30:26,00:01:33.5486415,5,0,271,200,0,1,29,22,13,4,77,0
+Player_04051701200953,Experiment,04-05-2017,13:20:09,13:20:11,1629.0932,0,NaN,0,0,0,0,0,0,0,0,0,000.000
+Player_04051701201464,Control,04-05-2017,13:20:14,13:20:18,3462.198,0,NaN,0,0,0,0,0,0,0,0,0,000.000

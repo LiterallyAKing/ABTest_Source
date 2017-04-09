@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a99d92585683db43aa9b0cbbdf715f6
+timeCreated: 1491164906
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Android Hollow
+  fontNames:
+  - Android Hollow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
