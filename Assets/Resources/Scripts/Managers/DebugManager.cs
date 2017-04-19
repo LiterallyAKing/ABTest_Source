@@ -26,7 +26,7 @@ public class DebugManager : MonoBehaviour {
 		}
 	}
 	public void ExperimentToggle() {
-		analyticsman.tracking = experimenttoggle.isOn;
+		analyticsman.experimentmode = experimenttoggle.isOn;
 	}
 
 

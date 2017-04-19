@@ -1,5 +1,5 @@
 PlayerGravity=4 // default is 1, good range is 0.5-5
-CannonRotateSpeed=65// default is 50, good range is 0-250
+CannonRotateSpeed=200// default is 50, good range is 0-250
 CannonMaxAngle=80// default is 50, good range is <90
 CannonMinAngle=0// default is 10, good range is -30+
 InitialLaunchVelocity=20// default is 12, good range is 5-20

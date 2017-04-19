@@ -15,9 +15,9 @@ public class AnalyticsPassThrough : MonoBehaviour {
 	public ShopManager shop;
 
 	void Awake () {
-		if (Application.isEditor) {
-			active = false;
-		}
+		//if (Application.isEditor) {
+		//	active = false;
+		//}
 		if (active) {
 			analyticsman = GameObject.Find("AnalyticsManager").GetComponent<AnalyticsManager>();
 			if (analyticsman.experimentmode) {
